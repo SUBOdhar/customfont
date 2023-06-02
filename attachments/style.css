@@ -1,0 +1,8 @@
+.text {
+  font-size: 40px;
+  font-family: amithin; /* specify th name of the font family from the stylesheet css file*/
+  color:#21ff85;
+}
+body {
+  background-color: black;
+}

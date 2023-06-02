@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'amithin'; /* give name to the custome css as you like */
+    src: url('amithen-webfont.woff2') format('woff2'),  /* mention the path in the url of the font*/ 
+    url('amithen-webfont.woff') format('woff');
+}
